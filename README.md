@@ -4,3 +4,7 @@
 - [react-transition-group](https://www.npmjs.com/package/react-transition-group)
 
   跟踪组件的“进入”和“退出”状态，实现渐隐渐显的过渡动画。可以用来实现页面或组件间切换的动画。
+  
+- [matter-js](https://www.npmjs.com/package/matter-js)
+
+  一个用于 Web 的 JavaScript 2D 物理引擎库。实现例如弹跳、碰撞、重力、滚动等物理效果。
