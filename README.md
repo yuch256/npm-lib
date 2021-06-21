@@ -13,6 +13,6 @@
 
   虚拟列表组件。是 [react-virtualized](https://www.npmjs.com/package/react-virtualized) 的一种轻量级替代方案。
 
-- [use-debounce](https://www.npmjs.com/package/use-debounce)(react)
+- [use-debounce](https://www.npmjs.com/package/use-debounce) (react)
 
   防抖。可用于输入框搜索的性能优化。
