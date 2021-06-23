@@ -20,3 +20,9 @@
 - [mapbox-gl-js](http://www.mapbox.cn/tutorials/gljs/)
 
   地图
+
+- [lottie-web](https://github.com/airbnb/lottie-web)
+
+  动画库。airbnb开源的跨平台动画解决方案。[react-lottie](https://www.npmjs.com/package/react-lottie)，将其封装成React组件。
+  
+  
