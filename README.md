@@ -25,4 +25,6 @@
 
   动画库。airbnb开源的跨平台动画解决方案。[react-lottie](https://www.npmjs.com/package/react-lottie)，将其封装成React组件。
   
-  
+- [query-string](https://www.npmjs.com/package/query-string) 
+
+  解析URL请求参数。`'?foo=bar' <=> {foo: 'bar'}`
