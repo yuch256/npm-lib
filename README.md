@@ -1,11 +1,12 @@
 # npm-lib
-记录好用的js工具库
+前端工具库
 
 ## Contents
 
 - [Common](#common)
 - [React](#react)
 - [Map](#map)
+- [Other](#Other)
 
 ## Common
 
@@ -22,3 +23,7 @@
 ## Map
 
 - [mapbox-gl-js](http://www.mapbox.cn/tutorials/gljs/) - 地图
+
+## Other
+
+- [es5-shim](https://github.com/es-shims/es5-shim) - 兼容es5
