@@ -7,13 +7,13 @@
 - [React](#react)
 - [Map](#map)
 - [Other](#Other)
-1
 
 ## Common
 
 - [matter-js](https://www.npmjs.com/package/matter-js) - 一个用于 Web 的 JavaScript 2D 物理引擎库。实现例如弹跳、碰撞、重力、滚动等物理效果。
 - [lottie-web](https://github.com/airbnb/lottie-web) - 动画库。airbnb开源的跨平台动画解决方案。[react-lottie](https://www.npmjs.com/package/react-lottie)，将其封装成React组件。
 - [query-string](https://www.npmjs.com/package/query-string) - 解析URL请求参数。`'?foo=bar' <=> {foo: 'bar'}`
+- [react-masonry-component2](https://www.npmjs.com/package/react-masonry-component2) - 瀑布流
 
 ## React
 
